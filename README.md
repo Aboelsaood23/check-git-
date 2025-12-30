@@ -1,2 +1,2 @@
-this used for git trainig \n
+this used for git trainig /n
 second try on DEC 29
